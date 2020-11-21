@@ -1,1 +1,8 @@
 /* Styles go here */
+p {
+  padding: 15px;
+}
+
+h3 {
+  padding: 35px;
+}
